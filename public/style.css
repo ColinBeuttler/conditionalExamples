@@ -1,15 +1,26 @@
+body{
+  background-color: #d44266;
+}
+
 .pointer {
-    height: 550px;
+margin-left: 2%;
+    height: 580px;
     border-radius: 2rem;
-    padding: 4%;
-    background-color: rgb(105, 105, 105);
+    padding-left:4%;
+    padding-right: 4%;
+    padding-bottom: 7%;
+    background-color: rgb(73, 67, 67);
     color: azure;
-    margin-left: 10%;
+    /* margin-left: 10%; */
     text-align: center;
     width: 20%;
     position: relative;
     margin-top: 10%;
     float: left;
+  }
+  h1{
+    /* word-spacing: 1rem; */
+    font-size: 45px;
   }
   
   .sub {
@@ -66,15 +77,15 @@
 }
 
 .text{
-    margin-left: 5%;
-    padding-top: 8%;
+    margin-left: 12%;
+    padding-top: 4%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 50px;
     line-height: 80px;
     margin-top: 10%;
     float: left;
     height: 650px;
-    width: 850px;
+    width: 650px;
     color: black;
 }
 
